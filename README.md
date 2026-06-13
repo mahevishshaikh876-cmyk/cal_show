@@ -15,4 +15,4 @@ This project is a simple calendar program that displays dates and months.
 
 ## Output
 
-![Calendar Output](cal.png)
+![Calendar Output](calop.png)
